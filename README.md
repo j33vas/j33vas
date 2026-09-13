@@ -2,12 +2,6 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/QtLp8ZXV/IMG-9652.jpg" height = "50">
-
-<img src="https://i.postimg.cc/C5Sk8CBH/IMG-9647.jpg" height = "50">
-
-<img src="https://i.postimg.cc/bNQbTBH6/IMG-9659.jpg" height = "50">
-
 <img src=“https://i.postimg.cc/C5Sk8CBH/IMG-9647.jpg” height = “50“>
 <br>
  

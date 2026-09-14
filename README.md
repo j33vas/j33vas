@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td rowspan="3" align="center">
-      <img src="https://i.postimg.cc/KYmhx1m2/Untitled1640-20260801002340.png" width="250">
+      <img src="https://i.postimg.cc/qBCVPmXC/IMG-1340.gif" width="250">
     </td>
     <td>
 

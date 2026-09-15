@@ -11,27 +11,20 @@
 <table>
   <tr>
     <td rowspan="3" align="center">
-      <img src="https://i.postimg.cc/qBCVPmXC/IMG-1340.gif" width="250">
-    </td>
-    <td>
+         <img src="https://i.postimg.cc/y8Jnp5C2/big_shuichi.gif" width="250">
+                   </td>
+           <td>
 
-<img src="https://i.postimg.cc/SNzJkFR6/Untitled1644-20260801160519.png" width=50>‎ ‎ ${\textsf{\color{#A3AE9D} 🆁icari}}$‎ ‎ ${\textsf{\color{#4D77BF} 𝐀ngel}}$
-     <br>
-     ‎ afro-latino ㅤ 16‎ ‎ ‎ ‎ 
-     <br>
-     <details>
-<summary>stuff</summary>
-man i am sick of this gh
-<br>
-i like cod games, atlus games, fortnite, roblox, zombie games, survival games, basically js shooting games, resident evil series,etc etc i play anything and everything and i like playing with my friends and streaming games to my friends on vc so lmk plspls i lov hanging out with everyone :3 and if u wanna play games with me ALSO LMK!! ill give u my steam and buy whatever game u want me to ^_^ and if u don’t hav a game i can get it for u ! i love gaming with ppl :33333
-</details>
-    </td>
-  </tr>
+  <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=150>‎ 
+                               <br>
+  afro-latino ㅤ 16‎ ‎ ‎ ‎ 
+                          </td>
+    </tr>
 
 <tr>
   <td align="center" valign="middle">
     <br>
-    <img src="https://i.postimg.cc/2j2bj7CK/2C9348B6-3438-4C95-9758-38F0BEF14C8F-(1).gif" width="130">
+    <img src="https://i.postimg.cc/2j2bj7CK/2C9348B6-3438-4C95-9758-38F0BEF14C8F-(1).gif" width="50">
     <br>
   </td>
 </tr>

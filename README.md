@@ -15,9 +15,9 @@
                    </td>
            <td>
 
-  <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=150>‎ 
+  ㅤ<img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=150>‎ 
                                <br>
- any / allㅤ  <img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=50>‎‎ ‎ ‎ ‎ 
+ㅤ ⓐ𝐧𝐲 / ⓐ𝐥𝐥ㅤ<img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=50>‎‎ ‎ ‎ ‎ 
                           </td>
     </tr>
 

@@ -17,7 +17,7 @@
 
   <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=150>‎ 
                                <br>
-  afro-latino ㅤ 16‎ ‎ ‎ ‎ 
+ any / allㅤ 16‎ ‎ ‎ ‎ 
                           </td>
     </tr>
 

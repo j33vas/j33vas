@@ -17,7 +17,7 @@
 
   <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=150>‎ 
                                <br>
- any / allㅤ 16‎ ‎ ‎ ‎ 
+ any / allㅤ  <img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=50>‎‎ ‎ ‎ ‎ 
                           </td>
     </tr>
 

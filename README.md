@@ -2,11 +2,25 @@
 
 <div align="center">
 
-<img src=“https://i.postimg.cc/C5Sk8CBH/IMG-9647.jpg” height = “50“>
+  
+
+<a href="https://rentry.co/re-do">
+  <img src="https://i.postimg.cc/FFwCZxwV/file1.png" width="90"">
+</a>ㅤㅤㅤ‎
+
+<a href="https://rentry.co/re-do">
+  <img src="https://i.postimg.cc/HWFv2tFt/file2.png" width="90"">
+</a>ㅤㅤㅤ‎
+
+<a href="https://yuji.atabook.org/">
+  <img src="https://i.postimg.cc/Y2TD3xT8/file3.png" width="90"">
+</a>
+
+
+
 <br>
- 
-<img src="https://i.postimg.cc/L55NTp2X/IMG-9235-(1).gif" width = "338"> <img src="https://hits.sh/github.com/rinsagi.svg?label=shuakelings&extraCount=4670&color=222275&labelColor=20053C">
-  <br>
+
+
 
 <img src="https://i.postimg.cc/9MQgYBCq/shuichibannerr.gif" width="470" >
   
@@ -31,20 +45,9 @@
 </table>
 <br>
 
-<a href="https://milkshuake.straw.page/">
-  <img src="https://i.postimg.cc/TPcJYXKz/Untitled1643-20260801145218.png" width="51"">
-</a> ‎ ‎
 
-<a href="https://rentry.co/re-do">
-  <img src="https://i.postimg.cc/q7GxMdNS/Untitled1643-20260801145216.png" width="51"">
-</a> ‎ ‎
 
-<a href="https://yuji.atabook.org/">
-  <img src="https://i.postimg.cc/ZqLxKhW1/Untitled1643-20260801145213.png" width="51"">
-</a> ‎ ‎
-
-<a href="https://rentry.co/pxg">
-  <img src="https://i.postimg.cc/s2J4DRMb/Untitled1643-20260801145202.png" width="51"">
-</a>‎
+<img src=“https://i.postimg.cc/C5Sk8CBH/IMG-9647.jpg” height = “50“>
+<br>
  
-
+<img src="https://i.postimg.cc/L55NTp2X/IMG-9235-(1).gif" width = "338"> <img src="https://hits.sh/github.com/rinsagi.svg?label=shuakelings&extraCount=4670&color=222275&labelColor=20053C">‎

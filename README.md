@@ -62,7 +62,7 @@
 text
 </details>
     <br>
-<img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=150>‎ 
+<img src="https://i.postimg.cc/s2DrKvn6/bottomfriendbanner.png" width=150>‎ 
   </td>
 </table>
 <br> 

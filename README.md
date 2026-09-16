@@ -39,7 +39,7 @@
                                <br>
 ㅤ   ${\textsf{\color{#20488d} ⓐ𝐧𝐲}}$ ﹠ ${\textsf{\color{#8f9aa4} ⓐ𝐥𝐥}}$ <img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=36 height=30>‎‎ ‎ ‎ ‎
 <br>
-⠀ㅤ𓐇ᩧຼㅤfree2int anytime
+⠀ㅤ𓐇ᩧຼ  ${\textsf{\color{#20488d} free2int}}$ anytime
                           </td>
     </tr>
   <td align="center" valign="middle">
@@ -48,7 +48,7 @@
     <br>
   </td>
 </table>
-<br>
+<br> 
 
 
 

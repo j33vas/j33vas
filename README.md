@@ -56,7 +56,11 @@
     <br>
     <img src="https://i.postimg.cc/6Q6HH6wr/friends.png" width="158">
     <br>
-    <br>
+        <br>
+      <details>
+<summary>♡</summary>
+text
+</details>
     <br>
   </td>
 </table>

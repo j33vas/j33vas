@@ -42,11 +42,11 @@
                                <br>
                                <br>
                                <br>
-${\textsf{\color{#20488d} ⓐ𝐧𝐲}}$ ﹠ ${\textsf{\color{#8f9aa4} ⓐ𝐥𝐥}}$ <img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=36 height=30>‎‎ ‎ ‎ ‎
+ㅤ ${\textsf{\color{#20488d} ⓐ𝐧𝐲}}$ ﹠ ${\textsf{\color{#8f9aa4} ⓐ𝐥𝐥}}$ㅤ<img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=36 height=30>‎‎ ‎ ‎ ‎
 <br>
 <br>
 <br>
-𓐇ᩧຼ  ${\textsf{\color{#8f9AA4} 𝗳𝗿𝗲𝗲𝟮𝗶𝗻𝘁}}$ a͟n͟y͟t͟i͟m͟e͟
+ ${\textsf{\color{#8f9AA4} 𝗳𝗿𝗲𝗲𝟮𝗶𝗻𝘁}}$ ${\textsf{\color{#bcc9d3} a͟n͟ytime}}$
 <br>
 <br>
 𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠𓎢𓎢

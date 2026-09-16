@@ -35,9 +35,9 @@
                                <br>
                                
              
-  ㅤ <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=139>‎ 
+  ㅤ <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=142>‎ 
                                <br>
-ㅤ   ${\textsf{\color{#20488d} ⓐ𝐧𝐲}}$ ﹠ ${\textsf{\color{#8f9aa4} ⓐ𝐥𝐥}}$ㅤ<img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=38>‎‎ ‎ ‎ ‎
+ㅤ   ${\textsf{\color{#20488d} ⓐ𝐧𝐲}}$ ﹠ ${\textsf{\color{#8f9aa4} ⓐ𝐥𝐥}}$ㅤ<img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=36>‎‎ ‎ ‎ ‎
 <br>
 ⠀ㅤ𓐇ᩧຼㅤfree2int anytime
                           </td>

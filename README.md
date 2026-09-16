@@ -49,7 +49,6 @@
 ⠀ㅤ𓐇ᩧຼ  ${\textsf{\color{#8f9AA4} free2int}}$ anytime
 <br>
 <br>
-<br>
 ㅤㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠
                           </td>
     </tr>

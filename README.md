@@ -30,11 +30,14 @@
          <img src="https://i.postimg.cc/y8Jnp5C2/big_shuichi.gif" width="250">
                    </td>
            <td>
-             
+
+
   ㅤ<img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=150>‎ 
                                <br>
                                
-             
+ㅤㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠
+             <br>
+             <br>
   ㅤ <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=142>‎ 
                                <br>
                                <br>
@@ -42,6 +45,9 @@
 <br>
 <br>
 ⠀ㅤ𓐇ᩧຼ  ${\textsf{\color{#8f9AA4} free2int}}$ anytime
+<br>
+<br>
+ㅤㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠
                           </td>
     </tr>
   <td align="center" valign="middle">

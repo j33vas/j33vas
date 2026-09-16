@@ -29,27 +29,27 @@
     <td rowspan="3" align="center">
          <img src="https://i.postimg.cc/y8Jnp5C2/big_shuichi.gif" width="247">
                    </td>
-           <td>
+           <td align="center">
 
 
-ㅤ <img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=150>‎ 
+<img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=150>‎ 
                                <br>
-                               
-ㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠𓎢𓎢
+           
+𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠𓎢𓎢
              <br>
              <br>
-  ㅤ <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=142>‎ 
+<img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=142>‎ 
                                <br>
                                <br>
                                <br>
-ㅤ   ${\textsf{\color{#20488d} ⓐ𝐧𝐲}}$ ﹠ ${\textsf{\color{#8f9aa4} ⓐ𝐥𝐥}}$ <img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=36 height=30>‎‎ ‎ ‎ ‎
+${\textsf{\color{#20488d} ⓐ𝐧𝐲}}$ ﹠ ${\textsf{\color{#8f9aa4} ⓐ𝐥𝐥}}$ <img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=36 height=30>‎‎ ‎ ‎ ‎
 <br>
 <br>
 <br>
-⠀ㅤ𓐇ᩧຼ  ${\textsf{\color{#8f9AA4} free2int}}$ anytime
+𓐇ᩧຼ  ${\textsf{\color{#8f9AA4} free2int}}$ anytime
 <br>
 <br>
-ㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠𓎢𓎢
+𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠𓎢𓎢
                           </td>
     </tr>
   <td align="center" valign="middle">

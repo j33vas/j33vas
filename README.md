@@ -58,7 +58,7 @@ ${\textsf{\color{#20488d} ⓐ𝐧𝐲}}$ ﹠ ${\textsf{\color{#8f9aa4} ⓐ𝐥�
     <br>
         <br>
       <details>
-<summary>♡</summary>
+<summary><img src="https://i.postimg.cc/HnS5cJP6/tinyshuichi.png" width=20>‎ </summary>
 text
 </details>
     <br>

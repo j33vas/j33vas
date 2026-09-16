@@ -10,15 +10,15 @@
 
 <img src="https://i.postimg.cc/9MQgYBCq/shuichibannerr.gif" width="470" >
   <br>
-  <a href="https://rentry.co/re-do">
+  <a href="https://rentry.co/">
   <img src="https://i.postimg.cc/FFwCZxwV/file1.png" width="95"height = "72"">
 </a>ㅤㅤㅤ‎
 
-<a href="https://rentry.co/re-do">
+<a href="https://rentry.co/">
   <img src="https://i.postimg.cc/HWFv2tFt/file2.png" width="95" height = "72"">
 </a>ㅤㅤㅤ‎
 
-<a href="https://yuji.atabook.org/">
+<a href="https://rentry.co/">
   <img src="https://i.postimg.cc/Y2TD3xT8/file3.png" width="95"height = "72"">
 </a>
 

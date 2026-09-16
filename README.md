@@ -31,13 +31,13 @@
                    </td>
            <td>
              
-  ㅤ<img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=156>‎ 
+  ㅤ<img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=151>‎ 
                                <br>
                                
              
-  ㅤ<img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=140>‎ 
+  ㅤ <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=140>‎ 
                                <br>
-ㅤ ⓐ𝐧𝐲 / ⓐ𝐥𝐥ㅤ<img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=40>‎‎ ‎ ‎ ‎ 
+ㅤ   ⓐ𝐧𝐲 / ⓐ𝐥𝐥ㅤ<img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=40>‎‎ ‎ ‎ ‎ 
                           </td>
     </tr>
   <td align="center" valign="middle">

@@ -27,7 +27,7 @@
 <table>
   <tr>
     <td rowspan="3" align="center">
-         <img src="https://i.postimg.cc/y8Jnp5C2/big_shuichi.gif" width="250">
+         <img src="https://i.postimg.cc/y8Jnp5C2/big_shuichi.gif" width="247">
                    </td>
            <td>
 

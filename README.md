@@ -32,10 +32,10 @@
            <td>
 
 
-  ㅤ<img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=150>‎ 
+ㅤ <img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=150>‎ 
                                <br>
                                
-ㅤㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠
+ㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠𓎢𓎢
              <br>
              <br>
   ㅤ <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=142>‎ 
@@ -49,7 +49,7 @@
 ⠀ㅤ𓐇ᩧຼ  ${\textsf{\color{#8f9AA4} free2int}}$ anytime
 <br>
 <br>
-ㅤㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠
+ㅤ𓎢𓎠𓎟𓎠𓎡𓎢𓎟𓎠𓎢𓎢
                           </td>
     </tr>
   <td align="center" valign="middle">

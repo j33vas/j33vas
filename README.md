@@ -15,7 +15,7 @@
 </a>ㅤㅤㅤ‎
 
 <a href="https://rentry.co/re-do">
-  <img src="https://i.postimg.cc/HWFv2tFt/file2.png" width="95" height = "78"">
+  <img src="https://i.postimg.cc/HWFv2tFt/file2.png" width="95" height = "77"">
 </a>ㅤㅤㅤ‎
 
 <a href="https://yuji.atabook.org/">

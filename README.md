@@ -31,13 +31,13 @@
                    </td>
            <td>
              
-  ㅤ<img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=149>‎ 
+  ㅤ<img src="https://i.postimg.cc/fydDG1Qf/bannertop.png" width=150>‎ 
                                <br>
                                
              
   ㅤ <img src="https://i.postimg.cc/0y6ZX314/name_/_name.png" width=140>‎ 
                                <br>
-ㅤ   ⓐ𝐧𝐲  ﹠  ⓐ𝐥𝐥ㅤ<img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=40>‎‎ ‎ ‎ ‎ 
+ㅤ   ${\textsf{\color{#A3AE9D} ⓐ𝐧𝐲}}$ㅤ﹠ ${\textsf{\color{#A3AE9D} ⓐ𝐥𝐥}}$ <img src="https://i.postimg.cc/FRhqY4YY/19yo.png" width=35>‎‎ ‎ ‎ ‎ 
                           </td>
     </tr>
   <td align="center" valign="middle">

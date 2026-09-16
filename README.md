@@ -38,7 +38,7 @@
     </tr>
   <td align="center" valign="middle">
     <br>
-    <img src="https://i.postimg.cc/2j2bj7CK/2C9348B6-3438-4C95-9758-38F0BEF14C8F-(1).gif" width="50">
+    <img src="https://i.postimg.cc/6Q6HH6wr/friends.png" width="158">
     <br>
   </td>
 </table>

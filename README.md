@@ -10,15 +10,15 @@
 
 <img src="https://i.postimg.cc/9MQgYBCq/shuichibannerr.gif" width="470" >
   <br>
-  <a href="https://rentry.co/">
+  <a href="https://guns.lol/ciciwici">
   <img src="https://i.postimg.cc/FFwCZxwV/file1.png" width="95"height = "72"">
 </a>ㅤㅤㅤ‎
 
-<a href="https://rentry.co/">
+<a href="https://ciciwici.atabook.org/">
   <img src="https://i.postimg.cc/HWFv2tFt/file2.png" width="95" height = "72"">
 </a>ㅤㅤㅤ‎
 
-<a href="https://rentry.co/">
+<a href="https://allmightyyy.straw.page/">
   <img src="https://i.postimg.cc/Y2TD3xT8/file3.png" width="95"height = "72"">
 </a>
 

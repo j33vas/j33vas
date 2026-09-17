@@ -59,7 +59,9 @@
         <br>
       <details>
 <summary><img src="https://i.postimg.cc/HnS5cJP6/tinyshuichi.png" width=20>‎ </summary>
-text
+
+  text(friends go here!!!!!!!!!)
+        
 </details>
     <br>
 <img src="https://i.postimg.cc/s2DrKvn6/bottomfriendbanner.png" width=150>‎ 
